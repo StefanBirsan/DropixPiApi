@@ -1,1 +1,1 @@
-from .config import firebase, rtdb
+from .config import firebase, rtdb, storage

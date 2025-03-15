@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
-from app import firebase, rtdb
+from app import rtdb
 
 app = FastAPI(
     title="FastAPI with Firebase",
