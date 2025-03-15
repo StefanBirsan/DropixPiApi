@@ -6,7 +6,7 @@ cred = credentials.Certificate("../serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 
 firebaseConfig = {
-    "apiKey": "AIzaSyAIIjDks5ipNVoDATUwvl5llgG5y4jbINk",
+    "apiKey": "",
     "authDomain": "dropx-7e14e.firebaseapp.com",
     "databaseURL": "https://dropx-7e14e-default-rtdb.europe-west1.firebasedatabase.app",
     "projectId": "dropx-7e14e",
