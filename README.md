@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-## 🖼️ Final Product Screenshot
+## 🖼️ Final Prototype using the BOX
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="boxqr.jpeg" alt="Image 1" width="300">
     <img src="QrBox.jpeg" alt="Image 2" width="300">
